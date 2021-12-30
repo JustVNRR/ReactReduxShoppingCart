@@ -1,0 +1,14 @@
+export const LOGIN_SUCCESS = "LOGIN_SUCCESS";
+export const LOGIN_FAIL = "LOGIN_FAIL";
+
+export const REGISTER_SUCCESS = "REGISTER_SUCCESS";
+export const REGISTER_FAIL = "REGISTER_FAIL";
+
+export const LOGOUT = "LOGOUT";
+export const CHANGE_AVATAR = "CHANGE_AVATAR";
+export const CHANGE_AVATAR_FAIL = "CHANGE_AVATAR_FAIL";
+export const SHOW_HIDE_MODAL = "SHOW_HIDE_MODAL";
+export const SHOW_MODAL = "SHOW_MODAL";
+
+export const SET_MESSAGE = "SET_MESSAGE";
+export const CLEAR_MESSAGE = "CLEAR_MESSAGE";

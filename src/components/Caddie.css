@@ -1,0 +1,13 @@
+.item__count {
+    position: absolute;
+    background-color: red;
+    z-index: 10;
+    border-radius: 50%;
+    height: 1.5em;
+    width: 1.5em;
+  
+    top:-0.25em;
+    right:0.5em;
+    font-weight: bolder;
+    color:white
+  }

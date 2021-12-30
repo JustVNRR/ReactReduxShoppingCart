@@ -1,0 +1,33 @@
+.App-banniere {
+    height: 100%;
+    width:100%;
+    position:absolute;
+    top:0;
+    left:0;
+  }
+  
+  .App-logo {
+  
+    position:absolute;
+    top:0;
+    right:0;
+    width:5em;
+    height:5em;
+  }
+  
+  /* .mon-titre{
+    z-index:2;
+  } */
+  
+  
+  .App-header {
+    background-color: #282c34;
+    height:5em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+    position:relative;
+  }
